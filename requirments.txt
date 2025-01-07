@@ -1,0 +1,10 @@
+rasterio==1.4.3
+numpy==1.26.4
+matplotlib==3.9.1
+scikit-image==0.25.0
+kornia==0.7.4
+kornia_moons==0.2.9
+torch==2.5.1
+opencv-python==4.10.0.84
+
+libgl1
